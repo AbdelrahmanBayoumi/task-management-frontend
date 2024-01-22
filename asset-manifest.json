@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://abdelrahmanbayoumi.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://abdelrahmanbayoumi.github.io/task-management-frontend/static/js/main.83795507.chunk.js",
+    "main.js.map": "https://abdelrahmanbayoumi.github.io/task-management-frontend/static/js/main.83795507.chunk.js.map",
+    "runtime~main.js": "https://abdelrahmanbayoumi.github.io/task-management-frontend/static/js/runtime~main.84a29ad9.js",
+    "runtime~main.js.map": "https://abdelrahmanbayoumi.github.io/task-management-frontend/static/js/runtime~main.84a29ad9.js.map",
+    "static/js/2.cd88b106.chunk.js": "https://abdelrahmanbayoumi.github.io/task-management-frontend/static/js/2.cd88b106.chunk.js",
+    "static/js/2.cd88b106.chunk.js.map": "https://abdelrahmanbayoumi.github.io/task-management-frontend/static/js/2.cd88b106.chunk.js.map",
+    "index.html": "https://abdelrahmanbayoumi.github.io/task-management-frontend/index.html",
+    "precache-manifest.69f96b3fbc7666ce57e4062bf3559b99.js": "https://abdelrahmanbayoumi.github.io/task-management-frontend/precache-manifest.69f96b3fbc7666ce57e4062bf3559b99.js",
+    "service-worker.js": "https://abdelrahmanbayoumi.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://abdelrahmanbayoumi.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
